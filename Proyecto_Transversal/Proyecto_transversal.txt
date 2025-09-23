@@ -1,0 +1,572 @@
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+Proyecto transversal. El primer curso como
+docente de María Freire: Microprogramación de
+aula
+Índice
+1. Introducción.........................................................................................................3
+2. Marco legislativo..................................................................................................3
+3. Contexto y destinatarios......................................................................................3
+4. Justificación..........................................................................................................4
+5. Objetivos..............................................................................................................5
+6. Elementos del currículo........................................................................................6
+7. Competencias clave..............................................................................................8
+8. Metodología.......................................................................................................10
+Explicación y fundamentación de la metodología........................................10
+Justificación de la elección............................................................................10
+Ventajas y desventajas.................................................................................10
+Proceso de evaluación..................................................................................11
+9. Cronograma........................................................................................................12
+10. Sesión...............................................................................................................12
+11. Atención a la diversidad/DUA..........................................................................12
+12. Recursos...........................................................................................................13
+13. Evaluación del aprendizaje...............................................................................13
+14. Evaluación de la propuesta..............................................................................14
+15. Reflexión final...................................................................................................15
+
+Actividades
+
+1
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+16. Referencias bibliográficas................................................................................16
+
+Actividades
+
+2
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+1. Introducción
+<TODO>
+
+2. Marco legislativo
+Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las
+enseñanzas mínimas del Bachillerato. (Real Decreto 243/2022, 2022b)
+Decreto 157/2022, de 15 de septiembre, por el que se establecen la ordenación y el
+currículo del bachillerato en la Comunidad Autónoma de Galicia.
+(Decreto 157/2022,2022a)
+
+3. Contexto y destinatarios
+El contexto de esta microprogramación corresponde a un aula de 2º de Bachillerato,
+asignatura de Tecnología e Ingeniería II. Se trata de un grupo diverso, con diferentes
+estilos de aprendizaje (visual, kinestésico, reflexivo, etc.), intereses variados y
+necesidades educativas propias de la etapa. El alumnado presenta perfiles
+heterogéneos en cuanto a competencias digitales y habilidades para el trabajo en
+equipo.
+Atendiendo a las tendencias educativas actuales y a lo expuesto en (UNIR, 2025b),
+se priorizan metodologías activas y participativas que sitúan al alumnado como
+protagonista del proceso de aprendizaje. Se busca favorecer un aprendizaje
+
+Actividades
+
+3
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+significativo, adaptado a los diferentes estilos y ritmos, y conectado con la realidad y
+los intereses del alumnado. El uso de simuladores digitales y actividades prácticas se
+plantea como estrategia para conectar la teoría con la práctica y motivar al
+alumnado (UNIR, 2025b).
+
+4. Justificación
+El análisis del contexto evidencia las siguientes necesidades educativas prioritarias:
+• Mejorar la motivación y el compromiso del alumnado, favoreciendo su
+participación activa y el aprendizaje autónomo.
+• Atender a la diversidad de estilos de aprendizaje y niveles de desarrollo
+competencial, especialmente en el ámbito digital y STEM.
+• Potenciar el desarrollo de competencias clave como la competencia digital (CD),
+STEM, comunicación lingüística (CCL), sentido de la iniciativa (CPSAA) y la
+ciudadanía (CC).
+• Fomentar la transferencia del aprendizaje a situaciones reales y el trabajo
+cooperativo.
+La propuesta didáctica responde a estas necesidades mediante la implementación
+de prácticas innovadoras centradas en el estudiante (UNIR, 2025b), como la
+simulación de circuitos digitales y analógicos y el uso de recursos digitales como
+Logisim. Estas estrategias permiten que el alumnado experimente, investigue y
+resuelva problemas reales, promoviendo así un enfoque de aprendizaje profundo y
+significativo (UNIR, 2025b).
+Los criterios de evaluación seleccionados (CEV4.4, CEV4.5, CEV5.1) y sus indicadores
+permiten valorar tanto la adquisición de los contenidos técnicos como el desarrollo
+de competencias clave, integrando descriptores como CCL1 y CCL2 (comunicación y
+comprensión), CP1 (uso técnico del inglés), STEM1 y STEM2 (aplicación y
+experimentación científica), CD3 (uso de herramientas digitales) y CPSAA5 (trabajo
+en equipo y gestión de proyectos).
+El uso de simuladores y el aprendizaje-servicio, como recomienda la literatura
+(UNIR, 2025b), favorecen la motivación y la conexión entre los saberes académicos
+y la vida real, mejorando los resultados y el clima de aula.
+
+Actividades
+
+4
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+5. Objetivos
+En esta unidad didáctica se trabajan los siguientes objetivos de etapa según el
+artículo 7 del Decreto 157/2022, de 15 de septiembre:
+d) Afianzar los hábitos de lectura, estudio y disciplina, como condiciones
+necesarias para el eficaz aprovechamiento del aprendizaje, y como medio de
+desarrollo personal.
+e) Dominar, tanto en su expresión oral como escrita, la lengua castellana y,
+en su caso, la lengua cooficial de su comunidad autónoma.
+g) Utilizar con solvencia y responsabilidad las tecnologías de la información y
+la comunicación
+i) Acceder a los conocimientos científicos y tecnológicos fundamentales y
+dominar las habilidades básicas propias de la modalidad elegida.
+k) Afianzar el espíritu emprendedor con actitudes de creatividad, flexibilidad,
+iniciativa, trabajo en equipo, confianza en uno mismo y sentido crítico
+(2022a, p. 10)
+Se trabajarán los siguientes objetivos didácticos para el Bloque 4.
+Sistemas eléctricos y electrónicos (Decreto 157/2022,2022a, p.
+527) y se detallan en el Cronograma en la página 12.
+Se trabajarán los siguientes objetivos didácticos
+Bloque 5.
+Programación, automatización y control (Decreto 157/2022,2022a,
+p. 527) y se detallan en el Cronograma en la página 12.
+
+Actividades
+
+5
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+6. Elementos del currículo
+Se trabajan las siguientes competencias clave (Real Decreto 243/2022, 2022b,p. 40)
+
+Table 1: Compentencias clave
+Se trabajan los siguientes saberes básicos (Decreto 157/2022,2022a, p. 527)
+
+Actividades
+
+6
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+Table 2: Saberes básicos
+
+En la siguiente tabla se muestra como se relacionan las competencias específicas 4
+y 5 (Real Decreto 243/2022, 2022b,p. 317), los saberes básicos, indicadores de
+logro y criterios de evaluación (Decreto 157/2022,2022a, p. 527).
+
+Actividades
+
+7
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+Table 3: Criterios de evaluación e Indicadores de logro
+
+7. Competencias clave
+En la programación propuesta se trabajarán las siguientes competencias clave
+según el anexo I del Decreto 157/2022 (Decreto 157/2022,2022a, p. 40):
+
+
+Competencia en Comunicación Lingüística (CCL): El alumnado se expresa y
+argumenta de forma clara y colaborativa al trabajar en grupo los
+procedimientos y resultados de los ejercicios y simulaciones (CCL1).
+Comprende e interpreta textos técnicos y tutoriales de simuladores para
+resolver ejercicios y participar activamente en clase (CCL2).
+
+
+
+Competencia Plurilingüe (CP): El alumnado utiliza el inglés con fluidez y
+autonomía para comprender documentación técnica, manuales o tutoriales
+de los simuladores y componentes electrónicos, así como para comunicarse
+en la resolución de ejercicios y la exposición de resultados en clase,
+
+Actividades
+
+8
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+adaptándose a las necesidades académicas y profesionales del ámbito
+tecnológico (CP1).
+
+
+Competencia Matemática y Competencias en Ciencia,
+
+Tecnología e
+
+Ingeniería (STEM: El alumnado resuelve problemas y ejercicios de circuitos
+aplicando razonamiento matemático, analizando los resultados de
+simulaciones y reformulando estrategias cuando es necesario (STEM1);
+plantea hipótesis sobre el funcionamiento de circuitos, las comprueba
+mediante simuladores online y experimentación, y valora críticamente los
+resultados y las herramientas utilizadas (STEM2).
+
+
+Competencia Digital (CD): Utiliza y configura dispositivos y simuladores
+online de manera responsable y colaborativa, gestionando su presencia y
+comunicación digital (CD3).
+
+
+
+Competencia Personal, Social y de Aprender a Aprender (CPSAA): El
+alumnado desarrolla autonomía y capacidad de gestión al adaptarse al uso
+de simuladores online y al trabajo en grupo, organizando su aprendizaje y
+participando activamente en la resolución de ejercicios prácticos de circuitos
+y electrónica digital (CPSAA1.2). Planifica y evalúa su aprendizaje a largo
+plazo revisando sus progresos en las simulaciones y montajes de circuitos,
+relacionando conceptos de distintas áreas para resolver nuevos problemas y
+proponer ideas creativas de manera autónoma (CPSAA5).
+
+
+
+Competencia Ciudadana (CC): El alumnado aprende a dialogar, argumentar
+y respetar diferentes puntos de vista (CC1 y CC3), a tomar decisiones
+consensuadas y a participar activamente en actividades grupales desde un
+enfoque democrático e inclusivo (CC2).
+
+Actividades
+
+9
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+8. Metodología
+La metodología seleccionada para el desarrollo de esta microprogramación es
+Aprendizaje Basado en Problemas (ABPr) y simulación digital, complementadas
+con técnicas de trabajo cooperativo y evaluación formativa. Esta elección responde
+a las necesidades detectadas en el contexto de aula y la justificación previamente
+expuesta, y está alineada con las tendencias educativas actuales en el área de
+Tecnología e Informática (UNIR, 2025a).
+Explicación y fundamentación de la metodología
+El Aprendizaje Basado en Problemas (ABPr) complementa al ABP al plantear
+desafíos concretos que requieren investigación, análisis y toma de decisiones
+colaborativas, favoreciendo el desarrollo del pensamiento crítico y la autonomía. La
+utilización de la simulación digital (por ejemplo, Logisim o simuladores de sistemas
+automáticos) permite trasladar a un entorno seguro y accesible la experimentación
+y la comprobación de hipótesis, conectando la teoría con la práctica y respondiendo
+a la diversidad del alumnado.
+El trabajo cooperativo es transversal a ambas metodologías, promoviendo
+habilidades sociales, el reparto de roles y la corresponsabilidad en la consecución de
+objetivos comunes.
+Justificación de la elección
+Esta metodología se ha escogido porque:
+ Responde a la diversidad: permite atender a los diferentes ritmos y estilos
+de aprendizaje, tal y como aconsejan las metodologías actuales (UNIR,
+2025a).
+ Desarrolla competencias clave: fomenta la comunicación, el pensamiento
+crítico, la competencia digital y la colaboración, alineándose con los
+descriptores operativos y criterios de evaluación seleccionados.
+ Favorece el aprendizaje profundo y significativo: al conectar los contenidos
+con problemas reales y relevantes para el alumnado.
+ Potencia la motivación y el compromiso: al dar sentido y utilidad práctica a
+los conocimientos y habilidades adquiridos.
+Ventajas y desventajas
+Ventajas:
+ Promueve la autonomía, la creatividad y la responsabilidad.
+
+Actividades
+
+10
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+ Facilita el aprendizaje significativo y la transferencia a situaciones reales.
+ Mejora la motivación y el clima de aula.
+ Permite el desarrollo de habilidades colaborativas y de gestión.
+Desventajas:
+ Requiere una mayor planificación y coordinación docente.
+ Puede presentar dificultades para algunos estudiantes con baja autonomía o
+escasa experiencia en trabajo cooperativo.
+ Precisa recursos digitales y tecnológicos adecuados.
+ La evaluación puede resultar más compleja, siendo necesario combinar
+técnicas e instrumentos variados.
+Proceso de evaluación
+La evaluación será formativa y continua, haciendo uso de rúbricas, listas de control
+y autoevaluaciones para valorar tanto el producto final (simulaciones) como el
+proceso (participación, colaboración, resolución de problemas y uso de
+herramientas digitales). Se fomentará la autoevaluación y la coevaluación, y se
+proporcionará retroalimentación constante para guiar el aprendizaje y el desarrollo
+competencial del alumnado (García-Martínez & Ruiz-Gallardo, 2021; GonzálezSanmamed et al., 2020).
+
+Actividades
+
+11
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+9. Cronograma
+
+Table 4: Cronograma
+
+10. Sesión
+
+Actividades
+
+12
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+Table 5: Sesión
+
+11. Atención a la diversidad/DUA
+Texto
+
+Actividades
+
+13
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+12. Recursos
+Se realizaron varios vídeos con simulaciones: S4.4.03, S4.4.04, S4.4.05, S4.4.06
+correspondientes a las sesiones que se indican en la Table 4: Cronograma en la
+página 12. Para la realización de los vídeos se ha usado OBSStudio para la captura
+de pantalla, FFMpeg y MKVToolNix GUI para la edición. Se ha usado el simulador
+DCACLab para las simulaciones de los circuitos. Infografía realizada a partir de del
+Tema 3. Circuitos de corriente alterna (Departamento de Física y Química · IES Padre
+Manjón · Granada, 2025) con piktochar.
+
+13. Evaluación del aprendizaje
+Texto
+
+Actividades
+
+14
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+14. Evaluación de la propuesta
+Texto
+
+Actividades
+
+15
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+15. Reflexión final
+
+Actividades
+
+16
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+16. Referencias bibliográficas
+
+
+Decreto 157/2022, de 15 de septiembre, por el que se establecen la
+ordenación y el currículo del bachillerato en la Comunidad Autónoma de
+Galicia. Diario Oficial de Galicia num. 183, de 26 de septiembre de 2022.
+https://www.xunta.gal/dog/Publicados/2022/20220926/AnuncioG0655190922-0003_es.html (2022a)
+
+
+
+Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación
+y las enseñanzas mínimas del Bachillerato (España). Boletín Oficial del Estado
+núm. 82, de 06 de abril de 2022.
+
+https://www.boe.es/buscar/act.php?
+
+id=BOE-A-2022-5521 (2022b)
+
+
+
+
+UNIR. (2025a). Metodologías docentes para la enseñanza de la tecnología e
+informática. Especialidad Tecnología e Informática del MU en Formación del
+Profesorado. Asignatura de Didáctica en la Especialidad de Tecnología e
+Informática. Tema 2.
+https://cms.unir.net/file/=MXdv12b552buFmJmAEQmYSN0UjN2kzN/esl-ES
+UNIR. (2025b). Diseños innovadores centrados en el estudiante. Especialidad
+Tecnología e Informática del MU en Formación del Profesorado. Asignatura
+de Innovación Docente e Iniciación a la Investigación Educativa. Tema 4.
+https://cms.unir.net/file/=MXdv12b552buFmJmAEQmYCMygTN1kzN/esl-ES
+
+
+
+
+
+
+García-Martínez, I., & Ruiz-Gallardo, J.-R. (2021). Active methodologies in
+STEM education: A systematic review. Education Sciences, 11(7), 352.
+González-Sanmamed, M., Muñoz-Carril, P.-C., & Sangrà, A. (2020). Digital
+competence of teachers in higher education: A systematic review. Education
+and Information Technologies, 25, 2041–2066.
+Departamento de Física y Química · IES Padre Manjón · Granada. (2025).
+Electrotecnia 2o Bachillerato. Tema 3. Circuitos de corriente alterna.
+https://www.google.com/url?
+sa=t&source=web&rct=j&opi=89978449&url=https://fq.iespm.es/
+documentos/janavarro/electrotecnia/
+T3_Circuitos_CA.pdf&ved=2ahUKEwjn3JfW6JaNAxXnSaQEHQqdCCUQFnoEC
+BUQAQ&usg=AOvVaw1lZnhSyHRbgLhcqBOuqSDP
+
+Actividades
+
+17
+
+Asignatura
+Proyecto transversal
+
+Datos del alumno
+Apellidos: Barreiro Taboada
+Nombre: Carlos
+
+Fecha
+
+09/06/2025
+
+Actividades
+
+18
+
+
